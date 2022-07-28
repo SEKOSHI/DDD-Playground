@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/DDD-Playground/.vs
+/src/DDD-Playground/Domain/bin
+/src/DDD-Playground/Domain/obj
+/src/DDD-Playground/Infrastructure/bin
+/src/DDD-Playground/Infrastructure/obj
+/src/DDD-Playground/WebApi/bin
+/src/DDD-Playground/WebApi/obj
+/src/DDD-Playground/WebApp/obj
